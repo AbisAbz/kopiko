@@ -1,0 +1,49 @@
+ body{
+    background-color: black;
+    overflow-x: hidden;
+ }
+ .A{
+    
+    color: gray;
+    text-align: center;
+ }
+ .B{
+    color: aliceblue;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding-bottom: 30px;
+  
+ }
+ .main2{
+    color:gray ;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 110px;
+    padding-right: 110px;
+
+ }
+ .image1{
+    margin: 0px;
+ }
+ .hov:hover{
+    color : #db4f3d ;
+    
+ }
+ .A:hover{
+    color: orange;
+ }
+ .p{
+    color: grey;
+    text-align: center;
+    font-size: 25px;
+ }
+  .image2{
+    text-align: center;
+    padding-top: 30px;
+  }
+.bottom{
+    color: gray;
+    text-align: center;
+    padding-top: 150px;
+   }
+   
